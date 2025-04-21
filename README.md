@@ -28,5 +28,6 @@ c) Threads com ID dividido por 3 resultando em resto igual a zero fazem as trans
 - Transação de BD por 1,5 segundo
 - Cálculos de 1 a 2 segundos
 - Transação de BD por 1,5 segundo
+
 Faça uma aplicação em Java que simule a situação de 21 Threads simultâneas, com exibição
 em console de cada passo que a Thread está realizando.
