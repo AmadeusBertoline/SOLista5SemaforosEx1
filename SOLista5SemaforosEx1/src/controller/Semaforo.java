@@ -22,7 +22,7 @@ public class Semaforo extends Thread {
 
 	}
 
-	// Tempo de cálculo da thread
+	// Tempo de cálculo da thread.
 	private void calc(int min, int max) {
 
 		System.out.println("A thread " + id + " está realizando um cálculo");
